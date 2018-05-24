@@ -1,4 +1,0 @@
-pyyaml
-botocore
-dictdiffer
-ops
